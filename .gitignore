@@ -1,0 +1,9 @@
+
+### Example user template
+
+# IntelliJ project files
+core/core.php
+.idea
+*.iml
+out
+gen
